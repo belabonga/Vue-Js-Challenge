@@ -1,4 +1,4 @@
-# belabonga-hcktv-P2-Challenge1
+P2 Challenge1
 
 Deployed Links :
 FE : https://linkedon-4b5de.web.app
